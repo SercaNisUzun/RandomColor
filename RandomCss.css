@@ -1,0 +1,18 @@
+div {
+    height: 200px;
+    width: 500px;
+    text-align: center;
+    margin-top: 15%;
+    border: black 5px solid;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
